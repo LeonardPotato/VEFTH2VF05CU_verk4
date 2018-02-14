@@ -1,1 +1,1 @@
-web: python verk4.py
+web: python app.py
